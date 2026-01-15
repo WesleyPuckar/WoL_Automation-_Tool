@@ -25,8 +25,6 @@ Para o desenvolvimento e segurança deste projeto, foram utilizadas as seguintes
 | **Framework** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) | Uso da classe `UdpClient` para envio de pacotes de baixo nível. |
 | **Segurança** | ![Infosec](https://img.shields.io/badge/Security-Hardening-red?style=flat-square&logo=looker&logoColor=white) | Implementação de diretrizes de conformidade corporativa. |
 | **Ambiente** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) | Sistema operacional alvo e gerenciador de energia. |
-| **Versionamento** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Controle de versão e documentação via Markdown. |
-
 ---
 
 ## ⚡ Como Funciona
